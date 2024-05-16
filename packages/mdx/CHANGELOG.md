@@ -1,5 +1,13 @@
 # next-docs-mdx
 
+## 8.2.19
+
+### Patch Changes
+
+- 8ef2b68: Bump deps
+- Updated dependencies [8ef2b68]
+  - fumadocs-core@11.1.1
+
 ## 8.2.18
 
 ### Patch Changes

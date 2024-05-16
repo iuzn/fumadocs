@@ -1,5 +1,13 @@
 # next-docs-ui
 
+## 11.1.1
+
+### Patch Changes
+
+- 8ef2b68: Bump deps
+- Updated dependencies [8ef2b68]
+  - fumadocs-core@11.1.1
+
 ## 11.1.0
 
 ### Minor Changes
